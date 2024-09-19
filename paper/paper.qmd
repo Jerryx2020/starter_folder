@@ -1,9 +1,9 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Marriage License Statistics Analysis"
+subtitle: "An in depth analysis"
 author: 
-  - Rohan Alexander
-thanks: "Code and data are available at: LINK."
+  - Jerry
+thanks: "Code and data are available at: https://github.com/Jerryx2020/starter_folder"
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."

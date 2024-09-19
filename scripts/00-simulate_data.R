@@ -1,8 +1,8 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
+# Author: Jerry Xia
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Contact: jerry.xia@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: None
 # Any other information needed? None
