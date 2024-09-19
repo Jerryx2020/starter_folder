@@ -37,13 +37,15 @@ The project is organized into several key directories and scripts:
 - `starter_folder.Rproj`: RStudio project file.
 - `README.md`: This file, explaining the project setup and structure.
 
+## Statement on LLM usage
+
+Code was derived from a class example where they were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
+
 ## How to Run the Project
 
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/Jerryx2020/starter_folder
 
-## Statement on LLM usage
 
-Code was derived from a class example where they were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
 
