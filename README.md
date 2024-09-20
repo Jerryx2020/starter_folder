@@ -1,4 +1,4 @@
-# Marriage Licence Statistics - Toronto
+# Marriage License Statistics - Toronto
 
 This project focuses on simulating and analyzing data from the **Marriage Licence Statistics** in Toronto using the **Open Data Toronto** platform. The workflow involves simulating datasets, gathering real data, cleaning the data, conducting tests, and generating a final report using **Quarto**.
 
