@@ -29,7 +29,7 @@ The project is organized into several key directories and scripts:
    - `01-download_data.R`: Gathers data from Open Data Toronto using the **opendatatoronto** package.
    - `02-data_cleaning.R`: Cleans and processes the raw data, using functions like `separate()` and `lubridate::ymd()` for date handling.
    - `03-test_data.R`: Contains tests to validate the simulated and cleaned datasets.
-   - `04-model.R`: (Optional) This script likely models the cleaned data for further analysis.
+   - `04-model.R`: (Optional) This script models the cleaned data for further analysis.
    - `05-replications.R`: (Optional) Replication script for rerunning analyses or simulations.
 
 ### Other Files:
